@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/0ccbd2d1-e766-4683-bf9a-e810687ccb7e/resourceGroups/ITS-ProjectWork/providers/Microsoft.Web/sites/FrontendAppCoffeeMek",
+    "appService.deploySubpath": "."
+}
